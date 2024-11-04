@@ -1,14 +1,22 @@
 <style> 
     body {
-  color: 
+  color: black;
   font-size:
-  font-family:
+  font-family: Times Romania;
   text-align:
 }
-  
+h1 { 
+color: black;
+font-size: 60px;
+fint-family: Times Romania;
+text-align:
+}
+
 </style>
 
 <body>
+
+<title>Computers effects on the environment</title>
 
   <table border= 50>
     <tr>
@@ -21,5 +29,9 @@
     <tr>
       <td colspan="2"> </td>
     </tr>
+
+    <h1>Harmful environmental impacts from computers</h1>
+    <h2>What are the environmental consequences of computer device production?</h2>
+    <p> 
 
 </body>
