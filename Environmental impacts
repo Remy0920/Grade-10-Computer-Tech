@@ -1,0 +1,25 @@
+<style> 
+    body {
+  color: 
+  font-size:
+  font-family:
+  text-align:
+}
+  
+</style>
+
+<body>
+
+  <table border= 50>
+    <tr>
+      <td colspan="2"> <img src=
+    </tr>
+    <tr>
+      <td> <a href="index.html">What are the Environmental Imapcts of Computers?</a> </td>
+      <td> <a href="page2.html">Minimizing the environemtal impacts of computers</a> </td>
+    </tr>
+    <tr>
+      <td colspan="2"> </td>
+    </tr>
+
+</body>
